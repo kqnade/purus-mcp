@@ -75,10 +75,10 @@ const x be 42
 let name be ///world///
 
 -- 演算子（記号なし）
-console.log[1 add 2]  // 3
-console.log[10 sub 3] // 7
-console.log[4 mul 5]  // 20
-console.log[10 div 2] // 5
+console.log[1 add 2]  -- 3
+console.log[10 sub 3] -- 7
+console.log[4 mul 5]  -- 20
+console.log[10 div 2] -- 5
 
 -- 比較
 if x eq 42
